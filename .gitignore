@@ -1,0 +1,7 @@
+# Stored models
+output-small/*
+
+# facebook messages
+facebook-messages/*
+formattedMessages.csv
+messages.csv
