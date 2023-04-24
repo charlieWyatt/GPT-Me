@@ -4,3 +4,7 @@ How to run
 3. run CSVtoFormattedCSV
 4. put the filepath into model.ipynb
 5. test some stuff!
+
+
+Based off this coding project - https://github.com/RuolinZheng08/twewy-discord-chatbot
+Comes from this youtube video - https://www.youtube.com/watch?v=UjDpW_SOrlw
